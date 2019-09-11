@@ -1,0 +1,64 @@
+﻿{
+  "module": {
+    "number": 1,
+    "name": "Technical",
+    "questions": 5
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "1.JSON stands for ________________",
+      "answers": [
+        "Java Standard Output Network",
+        "JavaScript Object Notation",
+        "JavaScript Output Name",
+        "Java Source Open Network"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 2,
+      "question": "2.Which is correct format of writing JSON name/value pair",
+      "answers": [
+        "'name : value'",
+        "name = 'value'",
+        "name = \"value\"",
+        "\"name\" : \"value\""
+      ],
+      "correct_answer": 4
+    },
+    {
+      "number": 3,
+      "question": "3.Which of the following is not a type in JSON?",
+      "answers": [
+        "date",
+        "Object",
+        "Array",
+        "string"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 4,
+      "question": "4.What is correct MIME type for JSON ?",
+      "answers": [
+        "application/js",
+        "application/json",
+        "json/mime",
+        "application/xml"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 5,
+      "question": "5.What extension in used to save a JSON file?",
+      "answers": [
+        ".js",
+        ".javaN",
+        ".json",
+        ".on"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}
